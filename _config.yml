@@ -1,5 +1,7 @@
 
 
+text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+
 # #-----Comment out for local use-----
 # title: WAND
 # email: danielbesley0@gmail.com
