@@ -1,11 +1,9 @@
-
 ---
 layout: article
 title: Mailing List
 aside:
   toc: true
 ---
-
 # Mailing List
 
 The New Zealand Network Operators’ Group (NZNOG) has no king, president or formal membership. It consists of the subscribers to this mailing list. The group is intended to facilitate discussion among operators of networks in New Zealand on matters relevant to network operators as described in the list’s Acceptable Use Policy.
