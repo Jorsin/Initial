@@ -4,3 +4,21 @@ header:
   
     - title: Mailing List
       url: /mailing.html
+
+docs-en:
+  - title:      NZNOG 2020
+    children:
+      - title:  NZNOG 2020 Registration
+        url:    /registration.html
+      - title:  Sponsors 2020
+        url:    /sponsors.html
+      - title:  NZNOG 2020 Talks
+        url:    /talks.html
+      - title:  NZNOG 2020 Tutorials
+        url:    /tutorials.html
+      - title:  NZNOG 2020 Dinner and Social
+        url:    /social.html
+      - title:  NZNOG 2020 Accomodation
+        url:    /tutorials.html
+      - title:  Call for Papers 2020
+        url:    /papers.html
