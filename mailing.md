@@ -13,7 +13,7 @@ You may choose to receive postings as they come in, or just to receive daily “
 
 The NZNOG mailing list is provided through a server at The University of Waikato, and is administered by three members of the community. None of these individuals, nor the organisations they work for, is responsible for its content.
 
-# NZNOG Mailing List Acceptable Use Policy
+## NZNOG Mailing List Acceptable Use Policy
 The NZNOG mailing list exists to provide a forum for the exchange of technical information and the discussion of implementation issues that require cooperation among New Zealand network service providers.
 In order to continue to provide a useful forum for discussion of relevant technical issues, users of the list are asked to respect the following guidelines.
 
@@ -27,18 +27,18 @@ Postings of a political, philosophical or legal nature are discouraged.
 Postings to the list should be in ASCII or MIME encoded as text/plain. Attachments should not be sent to the list. To present a document, a suitable URL may be referred to. For documents of general interest, the use of proprietary file formats is discouraged.
 Breaches of list etiquette should be dealt with privately with the offending list user, and should not result in complaints being sent to the list.
 A person repeatedly breaching list etiquette shall receive warnings from the list administrator. A further breach after the second such warning within thirty days shall result in the offender being unsubscribed from the list. Other action may also be taken to block postings to the list by the offender. Any such unsubscription is to be immediately announced to the list.
-# Mailing List Archives
+## Mailing List Archives
 A full archive is available at https://list.waikato.ac.nz/hyperkitty/list/nznog@list.waikato.ac.nz/. Any message sent to the list will be archived and made available on the web automatically. Changes are not made to the archive on request, though the administrators remain happy to assist the Office of the Privacy Commissioner should any complaint be laid with that office.
 One way to search the archive is to use google and prefix your search with site:list.waikato.ac.nz
-# Subscribing to the List
+## Subscribing to the List
 You can subscribe to the list at  https://list.waikato.ac.nz/postorius/lists/nznog.list.waikato.ac.nz/
-# Using the list wisely
+## Using the list wisely
 A common reason for posting to the list is when something isn’t working as you believe it should. When this happens the first thing you should do is contact the other party directly – get their details from their website or from the NOC list. If you find out something of general technical interest please share it with the list through an intelligent and fact filled post.
 Secondly, search the archives at http://list.waikato.ac.nz/pipermail/nznog/to see if your question has been answered before. One way to search the archive is to use google and prefix your search with site:list.waikato.ac.nz .
 
 If this gets you nowhere you should post to the list with sufficient detail so that others on the list to see if the problem you are having might also impact on them (so they will tune into the thread as it progresses), or it might be a more general problem than you think and help may come from somewhere other than where you expected.
 
-# For example, this post is good:
+## For example, this post is good:
 Hi,
 
 We at xxxxx are seeing problems with mails to ISP X being bounced with
@@ -54,7 +54,7 @@ apply some group pressure we can get this resolved.
 Hal P Full,
 Clever ISP Limited
 
-# And this is a very very bad post:
+## And this is a very very bad post:
 Can someone from ISP X please contact me off list.
 
 A Plonker,
