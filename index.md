@@ -1,6 +1,5 @@
 ---
 layout: home
-title: NZNOG
 ---
 
 # NZNOG
