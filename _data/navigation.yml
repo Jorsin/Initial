@@ -1,8 +1,6 @@
 header:
-    - titles:
-        en      : &EN       Archive
-      url: /archive.html
+    - titles: NZNOG 2020
+      url: /2020.html
   
-    - titles:
-        en      : &EN       About
-      url: /about.html
+    - titles: Mailing List
+      url: /mailing.html
