@@ -13,5 +13,5 @@
 # github_username:  Jorsin
 # remote_theme: wanduow/jekyll-theme-wand2
 # #------------------------------------
-theme: jekyll-text-theme
+remote_theme: laurathresh/laurathresh.github.io
 
