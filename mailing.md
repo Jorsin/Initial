@@ -53,7 +53,8 @@ apply some group pressure we can get this resolved.
 
 Hal P Full,
 Clever ISP Limited
-#And this is a very very bad post:
+
+# And this is a very very bad post:
 Can someone from ISP X please contact me off list.
 
 A Plonker,
