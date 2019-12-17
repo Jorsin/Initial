@@ -27,6 +27,8 @@ See https://ix.nz for details on AKL-IX, a locally run, not-for-profit, internet
 New Zealand Internet Maps
 See this page for some maps of the New Zealand Internet.
 Other Meetings
-See http://thursdaynightcurry.com/ if you live in or near Auckland, Hamilton or Wellington.
+See ([Thursday Night Curry](http://thursdaynightcurry.com/)) if you live in or near Auckland, Hamilton or Wellington.
+
+
 
 
