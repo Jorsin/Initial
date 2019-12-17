@@ -27,7 +27,7 @@ Postings of a political, philosophical or legal nature are discouraged.
 Postings to the list should be in ASCII or MIME encoded as text/plain. Attachments should not be sent to the list. To present a document, a suitable URL may be referred to. For documents of general interest, the use of proprietary file formats is discouraged.
 Breaches of list etiquette should be dealt with privately with the offending list user, and should not result in complaints being sent to the list.
 A person repeatedly breaching list etiquette shall receive warnings from the list administrator. A further breach after the second such warning within thirty days shall result in the offender being unsubscribed from the list. Other action may also be taken to block postings to the list by the offender. Any such unsubscription is to be immediately announced to the list.
-## Mailing List Archives
+### Mailing List Archives
 A full archive is available at https://list.waikato.ac.nz/hyperkitty/list/nznog@list.waikato.ac.nz/. Any message sent to the list will be archived and made available on the web automatically. Changes are not made to the archive on request, though the administrators remain happy to assist the Office of the Privacy Commissioner should any complaint be laid with that office.
 One way to search the archive is to use google and prefix your search with site:list.waikato.ac.nz
 ## Subscribing to the List
