@@ -3,6 +3,7 @@ layout: article
 title: Mailing List
 aside:
   toc: true
+show_title: false
 ---
 # Mailing List
 
