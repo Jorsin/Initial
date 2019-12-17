@@ -1,10 +1,6 @@
 ---
-layout: article
-title: NZNOG Page - Sidebar
-aside:
-  toc: true
-sidebar:
-  nav: layouts
+layout: home
+title: NZNOG Page
 ---
 
 # NZNOG
