@@ -41,7 +41,7 @@ Secondly, search the archives [here](http://list.waikato.ac.nz/pipermail/nznog/)
 If this gets you nowhere you should post to the list with sufficient detail so that others on the list to see if the problem you are having might also impact on them (so they will tune into the thread as it progresses), or it might be a more general problem than you think and help may come from somewhere other than where you expected.
 
 ## Post examples:
-### This post is good:
+### This post is good
 Hi,
 
 We at xxxxx are seeing problems with mails to ISP X being bounced with
@@ -57,7 +57,7 @@ apply some group pressure we can get this resolved.
 Hal P Full,
 Clever ISP Limited
 
-### And this is a very very bad post:
+### And this is a very very bad post
 Can someone from ISP X please contact me off list.
 
 A Plonker,
