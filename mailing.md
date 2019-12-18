@@ -35,7 +35,7 @@ One way to search the archive is to use google and prefix your search with site:
 You can subscribe to the list [here](https://list.waikato.ac.nz/postorius/lists/nznog.list.waikato.ac.nz/)
 ## Using the list wisely
 A common reason for posting to the list is when something isn’t working as you believe it should. When this happens the first thing you should do is contact the other party directly – get their details from their website or from the NOC list. If you find out something of general technical interest please share it with the list through an intelligent and fact filled post.
-Secondly, search the archives [here](http://list.waikato.ac.nz/pipermail/nznog/)to see if your question has been answered before. One way to search the archive is to use google and prefix your search with site:list.waikato.ac.nz .
+Secondly, search the archives [here](http://list.waikato.ac.nz/pipermail/nznog/) to see if your question has been answered before. One way to search the archive is to use google and prefix your search with site:list.waikato.ac.nz .
 
 If this gets you nowhere you should post to the list with sufficient detail so that others on the list to see if the problem you are having might also impact on them (so they will tune into the thread as it progresses), or it might be a more general problem than you think and help may come from somewhere other than where you expected.
 
