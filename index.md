@@ -1,8 +1,6 @@
 ---
 layout: article
 title: NZNOG
-aside:
-  toc: true
 show_title: false
 ---
 
