@@ -18,16 +18,16 @@ The NZNOG mailing list is provided through a server at The University of Waikato
 The NZNOG mailing list exists to provide a forum for the exchange of technical information and the discussion of implementation issues that require cooperation among New Zealand network service providers.
 In order to continue to provide a useful forum for discussion of relevant technical issues, users of the list are asked to respect the following guidelines.
 
-Discussion will focus on Internet operational and technical issues.
-Discussion related to meetings of network service providers is appropriate.
-Discussion unrelated to these topics is not appropriate.
-Postings to multiple mailing lists are discouraged.
-Postings that include foul language, character assassination, and lack of respect for other participants are unacceptable.
-Blatant product or service marketing is unacceptable.
-Postings of a political, philosophical or legal nature are discouraged.
-Postings to the list should be in ASCII or MIME encoded as text/plain. Attachments should not be sent to the list. To present a document, a suitable URL may be referred to. For documents of general interest, the use of proprietary file formats is discouraged.
-Breaches of list etiquette should be dealt with privately with the offending list user, and should not result in complaints being sent to the list.
-A person repeatedly breaching list etiquette shall receive warnings from the list administrator. A further breach after the second such warning within thirty days shall result in the offender being unsubscribed from the list. Other action may also be taken to block postings to the list by the offender. Any such unsubscription is to be immediately announced to the list.
+1. Discussion will focus on Internet operational and technical issues.
+2. Discussion related to meetings of network service providers is appropriate.
+3. Discussion unrelated to these topics is not appropriate.
+4. Postings to multiple mailing lists are discouraged.
+5. Postings that include foul language, character assassination, and lack of respect for other participants are unacceptable.
+6. Blatant product or service marketing is unacceptable.
+7. Postings of a political, philosophical or legal nature are discouraged.
+8. Postings to the list should be in ASCII or MIME encoded as text/plain. Attachments should not be sent to the list. To present a document, a suitable URL may be referred to. For documents of general interest, the use of proprietary file formats is discouraged.
+9. Breaches of list etiquette should be dealt with privately with the offending list user, and should not result in complaints being sent to the list.
+10. A person repeatedly breaching list etiquette shall receive warnings from the list administrator. A further breach after the second such warning within thirty days shall result in the offender being unsubscribed from the list. Other action may also be taken to block postings to the list by the offender. Any such unsubscription is to be immediately announced to the list.
 ## Mailing List Archives
 A full archive is available at https://list.waikato.ac.nz/hyperkitty/list/nznog@list.waikato.ac.nz/. Any message sent to the list will be archived and made available on the web automatically. Changes are not made to the archive on request, though the administrators remain happy to assist the Office of the Privacy Commissioner should any complaint be laid with that office.
 One way to search the archive is to use google and prefix your search with site:list.waikato.ac.nz
