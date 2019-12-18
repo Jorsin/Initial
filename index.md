@@ -5,7 +5,7 @@ show_title: false
 article_header:
   type: cover
   image:
-    src: https://github.com/laurathresh/Initial/blob/master/assets/images/nog.svg
+    src: /assets/images/nog.svg
 ---
 
 # NZNOG
