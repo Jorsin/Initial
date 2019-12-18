@@ -2,10 +2,6 @@
 layout: article
 title: NZNOG
 show_title: false
-article_header:
-  type: cover
-  image:
-    src: /assets/images/nog.svg
 ---
 
 # NZNOG
