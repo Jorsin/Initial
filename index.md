@@ -22,7 +22,9 @@ More details on the list can be found on the Mailing List page.
 Operational contact details for most New Zealand ISP’s are located on the NOC List page. These are intended for use by other network operators, not by most customers.
 ### Internet Exchanges
 See [Here](http://www.nzix.net/) for details of Citylink operated exchanges.
+
 See [Here](http://www.megaport.com/services/mega-ix.html) for details of the Megaport operated exchange.
+
 See [Here](https://ix.nz) for details on AKL-IX, a locally run, not-for-profit, internet exchange.
 
 ## New Zealand Internet Maps
