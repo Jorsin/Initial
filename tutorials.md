@@ -44,7 +44,7 @@ At the end of this seminar and workshop, we hope that netops engineers will be m
 * Attendees to have hands-on experience with Docker, Kubernetes, Microservices development in any language, preferably Java
 * Basic Linux eg navigating to directory, listing files etc
 
-# APNIC Tutorial - BGP and Multihoming Techniques Tutorial
+## APNIC Tutorial - BGP and Multihoming Techniques Tutorial
 When : Tuesday 28 January, 2020, 9am to 5pm
 Cost : $75 inc. GST
 Note: Participants will ideally take both the Tuesday and Wednesday training together. However, there is no strict requirement to do both.
