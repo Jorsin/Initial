@@ -3,6 +3,8 @@ layout: article
 title: NZNOG 2020 Tutorials
 aside:
   toc: true
+sidebar:
+  nav: nznog2020
 show_title: false
 ---
 
