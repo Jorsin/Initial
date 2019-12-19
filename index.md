@@ -5,7 +5,7 @@ show_title: false
 ---
 
 # NZNOG
-NZNOG is the New Zealand Network Operators’ Group – an online community of network operators, predominantly in the Internet and Online Services area. 
+NZNOG is the New Zealand Network Operators’ Group – an online community of network operators, predominantly in the Internet and Online Services area. htsrhr
 
 NZNOG has no king, president, or formal membership. It consists of the subscribers to the NZNOG mailing list. The group is intended to facilitate discussion among operators of networks in New Zealand on matters relevant to network operators.
 ## Annual Conference
