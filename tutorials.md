@@ -16,7 +16,6 @@ Telco operations have become both complex and difficult to manage and track. Mod
 
 
 ### Full day workshop
-
 Introduction (time 3 hours incl break: 9am -12pm)
 
 Red Hat is pleased to offer the following introduction and hands-on workshop
@@ -34,11 +33,9 @@ Hands-on Lab/Workshop (time 4 hours incl break 2pm - 6pm)
 The hands-on lab will teach participants the basics of the OpenShift platform, such as application provisioning, network route creation, scaling the environment, and looking into over the air updates. The lab session will involve logging into an individual instance of OpenShift sandbox and navigating the interface, as well as trying basic operations.
 
 ### Takeaways
-
 At the end of this seminar and workshop, we hope that netops engineers will be more familiar with the new technologies and approaches available in the market, and so will know how each piece can fit into your existing network and operations, to improve efficiency and effectiveness and cut costs.
 
 ### Pre-requisites
-
 * Bring your own laptop - Windows, Mac or Linux OS
 * Ensure your laptop has internet access (Chrome/Firefox Browser) that can connect to remote lab Linux machines.
 * Attendees to have hands-on experience with Docker, Kubernetes, Microservices development in any language, preferably Java
@@ -51,31 +48,26 @@ Note: Participants will ideally take both the Tuesday and Wednesday training tog
 
 
 ### Synopsis
-
 Why do we keep seeing news headlines about major networks not being reachable because traffic got rerouted to somewhere else? BGP mishaps are very common and frighteningly very easy. Examples are malicious route hijacking, mis-origination (fat fingers), and bad filters (route leaks). We need better mechanism to ensure no one can inject false information into the global routing system that easily.
 
 This workshop will look at current tools/techniques, how rPKI is just a piece in the puzzle, and what we should to secure the internet routing instead of waiting for an ideal solution that fixes all issues.
 
 ### Pre-requisites
-
 This workshop is not an introduction - It is assumed that the workshop participants have a working knowledge of an OSPF/IS-IS and BGP fundamentals, along with know how to use a router command line interface.
 
 The lab exercises use Cisco IOS configuration syntax.
 
 ### Other Requirements
-
 Hardware: It is highly recommended that participants bring their own laptop computers with Wifi(b/g/n) and administrative access to system to practice the lessons learned during the workshops.
 Software: SSH Client, Telnet Client (PuTTy)
 
 ### Day 1 (Tuesday) Agenda
-
 * BGP basics
 * BGP attributes
 * BGP scaling techniques (RR, Peer groups)
 * BGP policy control
 * Multihoming techniques
 * BGP operations and security
-
 
 ## Red Hat Workshop - Ansible Linklight workshop
 When : Wednesday 29 January, 2020, 9am to 5pm
@@ -87,6 +79,7 @@ Ansible’s automation language can be used across different teams and is a telc
 Organisations adopting devops, devsecops and infrastructure-as-code will require the repeatability and predictability that automation requires.
 
 This is a hands-on workshop, so attendees must bring their own laptops.
+
 ### Skills Gained, Ansible Engine
 * Basic understanding of what Ansible is and how it works with networking devices
 * Running ad-hoc Ansible commands from a command line
@@ -95,12 +88,15 @@ This is a hands-on workshop, so attendees must bring their own laptops.
 * Use Case: Create a GRE tunnel
 * Use Case: Additional router configurations
 * Introduction to Roles: Making playbooks reusable and platform agnostic
+
 ### Skills Gained, Ansible Tower
 * Installing Ansible Tower
 * Configuring Ansible Tower
 * Use Case: Creating and running a job template
+
 ### Who can benefit
 Network operators, network engineers, cloud administrators, DevOps engineers, security professionals and anyone interested in network automation.
+
 ### Prerequisites
 Attendees should have working knowledge of using network device CLI as well as a conceptual understanding of network concepts (Cisco, Juniper, Arista, etc.), DevOps, and distributed application architecture.
 
@@ -114,32 +110,26 @@ When : Wednesday 29 January, 2020, 9am to 5pm
 Cost : $75 inc. GST
 
 ### Synopsis
-
 Why do we keep seeing news headlines about major networks not being reachable because traffic got rerouted to somewhere else? BGP mishaps are very common and frighteningly very easy. Examples are malicious route hijacking, mis-origination (fat fingers), and bad filters (route leaks). We need better mechanism to ensure no one can inject false information into the global routing system that easily.
 
 This workshop will look at current tools/techniques, how rPKI is just a piece in the puzzle, and what we should to secure the internet routing instead of waiting for an ideal solution that fixes all issues.
 
 ### Pre-requisites
-
 This workshop is not an introduction - It is assumed that the workshop participants have a working knowledge of an OSPF/IS-IS and BGP fundamentals, along with know how to use a router command line interface.
 
 The lab exercises use Cisco IOS configuration syntax.
 
 ### Other Requirements
-
 Hardware: It is highly recommended that participants bring their own laptop computers with Wifi(b/g/n) and administrative access to system to practice the lessons learned during the workshops.
 Software: SSH Client, Telnet Client (PuTTy)
 
 ### Day 2 (Wednesday) Agenda
-
 * Resource PKI
 * Why and how
 * Origin Validation
 * Creating ROAs
 * Installing setting up validators
 * Configuring routers to filter against ROAs
-
-
 
 ## Paul Vixie - Threat Hunting Using Passive DNS
 When : Wednesday 29 January, 2020, 9am to 5pm
@@ -160,11 +150,9 @@ UNLOCK: Additional information from common IoCs to advance your investigation
 TROUBLESHOOT: Possible roadblocks when using Passive DNS in investigations
 
 ### Target Audience
-
 Security professionals who work on SOC, incident response, and threat hunting teams will benefit from this workshop. Basic understanding of DNS is helpful but not required.  
  
 ### Requirements
-
 * To participate in the class, attendees should compile and install the programming tool dnsdbq Command Line DNSDB tool from GitHub.
 * DNSDB API Key (Attendees will receive a Key 48 hours prior to workshop).
 * Farsight Security Work Bench Credentials (Attendees will receive 48 hours prior to workshop).
