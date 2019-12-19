@@ -8,14 +8,14 @@ show_title: false
 
 # NZNOG 2020 Tutorials
 
-# Red Hat Workshop - Introduction to Containers, Kubernetes and Openshift
+## Red Hat Workshop - Introduction to Containers, Kubernetes and Openshift
 When : Tuesday 28 January, 2020, 9am to 6pm.
 Cost : $75 inc. GST
 
 Telco operations have become both complex and difficult to manage and track. Modern technologies, such as Openshift, DevOps, serverless architectures and microservices are gaining traction in the industry because they offer significant benefits such as ease of management and deployment, improved visibility of systems in the infrastructure, and ability to scale quickly and safely to handle spikes in traffic and demand. With the rapid increase in new technologies, terms and products, the typical engineer or manager can easily get lost in the maze of buzz words and jargon. Red Hat is here to help.
 
 
-### Full day workshop :
+### Full day workshop
 
 Introduction (time 3 hours incl break: 9am -12pm)
 
@@ -33,11 +33,11 @@ Hands-on Lab/Workshop (time 4 hours incl break 2pm - 6pm)
 
 The hands-on lab will teach participants the basics of the OpenShift platform, such as application provisioning, network route creation, scaling the environment, and looking into over the air updates. The lab session will involve logging into an individual instance of OpenShift sandbox and navigating the interface, as well as trying basic operations.
 
-### Takeaways:
+### Takeaways
 
 At the end of this seminar and workshop, we hope that netops engineers will be more familiar with the new technologies and approaches available in the market, and so will know how each piece can fit into your existing network and operations, to improve efficiency and effectiveness and cut costs.
 
-### Pre-requisites:
+### Pre-requisites
 
 * Bring your own laptop - Windows, Mac or Linux OS
 * Ensure your laptop has internet access (Chrome/Firefox Browser) that can connect to remote lab Linux machines.
@@ -67,7 +67,7 @@ The lab exercises use Cisco IOS configuration syntax.
 Hardware: It is highly recommended that participants bring their own laptop computers with Wifi(b/g/n) and administrative access to system to practice the lessons learned during the workshops.
 Software: SSH Client, Telnet Client (PuTTy)
 
-### Day 1 (Tuesday) Agenda:
+### Day 1 (Tuesday) Agenda
 
 * BGP basics
 * BGP attributes
@@ -77,7 +77,7 @@ Software: SSH Client, Telnet Client (PuTTy)
 * BGP operations and security
 
 
-# Red Hat Workshop - Ansible Linklight workshop
+## Red Hat Workshop - Ansible Linklight workshop
 When : Wednesday 29 January, 2020, 9am to 5pm
 Cost : $75 inc. GST
 Ansible is the simplest way to automate. Ansible is the simple yet powerful technology engine thousands of companies are using to simplify their network and IT infrastructure and accelerate Devops initiatives.
@@ -87,7 +87,7 @@ Ansible’s automation language can be used across different teams and is a telc
 Organisations adopting devops, devsecops and infrastructure-as-code will require the repeatability and predictability that automation requires.
 
 This is a hands-on workshop, so attendees must bring their own laptops.
-### Skills Gained, Ansible Engine:
+### Skills Gained, Ansible Engine
 * Basic understanding of what Ansible is and how it works with networking devices
 * Running ad-hoc Ansible commands from a command line
 * Building and execution of playbooks to accomplish basic router connectivity
@@ -95,13 +95,13 @@ This is a hands-on workshop, so attendees must bring their own laptops.
 * Use Case: Create a GRE tunnel
 * Use Case: Additional router configurations
 * Introduction to Roles: Making playbooks reusable and platform agnostic
-### Skills Gained, Ansible Tower:
+### Skills Gained, Ansible Tower
 * Installing Ansible Tower
 * Configuring Ansible Tower
 * Use Case: Creating and running a job template
-### Who can benefit:
+### Who can benefit
 Network operators, network engineers, cloud administrators, DevOps engineers, security professionals and anyone interested in network automation.
-### Prerequisites:
+### Prerequisites
 Attendees should have working knowledge of using network device CLI as well as a conceptual understanding of network concepts (Cisco, Juniper, Arista, etc.), DevOps, and distributed application architecture.
 
 Attendees should have working knowledge of using SSH and command line shell (BASH).
@@ -109,7 +109,7 @@ Attendees should have working knowledge of using SSH and command line shell (BAS
 Attendees must come with a laptop with admin rights and the ability to connect to a lab environment hosted in a public cloud.
 
 
-# APNIC Tutorial - Route Origin Validation (BGP filtering based on ROAs)
+## APNIC Tutorial - Route Origin Validation (BGP filtering based on ROAs)
 When : Wednesday 29 January, 2020, 9am to 5pm
 Cost : $75 inc. GST
 
@@ -130,7 +130,7 @@ The lab exercises use Cisco IOS configuration syntax.
 Hardware: It is highly recommended that participants bring their own laptop computers with Wifi(b/g/n) and administrative access to system to practice the lessons learned during the workshops.
 Software: SSH Client, Telnet Client (PuTTy)
 
-### Day 2 (Wednesday) Agenda:
+### Day 2 (Wednesday) Agenda
 
 * Resource PKI
 * Why and how
@@ -141,7 +141,7 @@ Software: SSH Client, Telnet Client (PuTTy)
 
 
 
-#Paul Vixie - Threat Hunting Using Passive DNS
+## Paul Vixie - Threat Hunting Using Passive DNS
 When : Wednesday 29 January, 2020, 9am to 5pm
 Cost : $75 inc. GST
 
@@ -159,11 +159,11 @@ UNLOCK: Additional information from common IoCs to advance your investigation
  
 TROUBLESHOOT: Possible roadblocks when using Passive DNS in investigations
 
-### Target Audience:
+### Target Audience
 
 Security professionals who work on SOC, incident response, and threat hunting teams will benefit from this workshop. Basic understanding of DNS is helpful but not required.  
  
-### Requirements:
+### Requirements
 
 * To participate in the class, attendees should compile and install the programming tool dnsdbq Command Line DNSDB tool from GitHub.
 * DNSDB API Key (Attendees will receive a Key 48 hours prior to workshop).
