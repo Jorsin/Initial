@@ -1,11 +1,11 @@
 ---
 layout: article
 title: NZNOG 2020 Tutorials
+show_title: false
 aside:
   toc: true
 sidebar:
   nav: nznog2020
-show_title: false
 ---
 
 # NZNOG 2020 Tutorials
