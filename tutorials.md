@@ -3,13 +3,12 @@ layout: article
 title: NZNOG 2020 Tutorials
 aside:
   toc: true
----
 show_title: false
 ---
 
-#NZNOG 2020 Tutorials
+# NZNOG 2020 Tutorials
 
-#Red Hat Workshop - Introduction to Containers, Kubernetes and Openshift
+# Red Hat Workshop - Introduction to Containers, Kubernetes and Openshift
 When : Tuesday 28 January, 2020, 9am to 6pm.
 Cost : $75 inc. GST
 
